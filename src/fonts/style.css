@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'Monument Grotesk';
+  src: local('Monument Grotesk Regular'), local('Monument-Grotesk-Regular'),
+    url('MonumentGrotesk-Regular.woff2') format('woff2'),
+    url('MonumentGrotesk-Regular.woff') format('woff'),
+    url('MonumentGrotesk-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Flexa';
+  src: local('GT Flexa Regular'), local('GT-Flexa-Standard-Regular'),
+    url('GT-Flexa-Standard-Regular.woff2') format('woff2'),
+    url('GT-Flexa-Standard-Regular.woff') format('woff'),
+    url('GT-Flexa-Standard-Regular.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Flexa Standard Bold';
+  src: local('GT Flexa Standard Bold'), local('GT-Flexa-Standard-Bold'),
+    url('GT-Flexa-Standard-Bold.woff2') format('woff2'),
+    url('GT-Flexa-Standard-Bold.woff') format('woff'),
+    url('GT-Flexa-Standard-Bold.ttf') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GT Flexa Standard Medium';
+  src: local('GT Flexa Standard Medium'), local('GT-Flexa-Standard-Medium'),
+    url('GT-Flexa-Standard-Medium.woff2') format('woff2'),
+    url('GT-Flexa-Standard-Medium.woff') format('woff'),
+    url('GT-Flexa-Standard-Medium.ttf') format('truetype');
+  font-style: normal;
+}
+
+/*ABCMonumentGrotesk*/
+
+@font-face {
+  font-family: 'ABCMonumentGrotesk';
+  src: local('ABCMonumentGrotesk Regular'), local('ABCMonumentGrotesk-Regular'),
+    url('ABCMonumentGrotesk-Regular.woff2') format('woff2'),
+    url('ABCMonumentGrotesk-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABCMonumentGrotesk';
+  src: local('ABCMonumentGrotesk Medium'), local('ABCMonumentGrotesk-Medium'),
+    url('ABCMonumentGrotesk-Medium.woff2') format('woff2'),
+    url('ABCMonumentGrotesk-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABCMonumentGrotesk';
+  src: local('ABCMonumentGrotesk Bold'), local('ABCMonumentGrotesk-Bold'),
+    url('ABCMonumentGrotesk-Bold.woff2') format('woff2'),
+    url('ABCMonumentGrotesk-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
